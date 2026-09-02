@@ -1,1 +1,3 @@
 slstatus/slstatus.o
+slstatus/components/battery.o
+slstatus/slstatus
